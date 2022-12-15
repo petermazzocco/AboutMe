@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @OhItsPM
-- 👀 I’m interested in the solidity blockchain and how it'll affect the future.
-- 🌱 I’m currently learning how to actually code in the solidity language
-- 💞️ I’m looking to collaborate on NFT projects or anything revolving the Ethereum smart contracts (when I learn it!)
+- 👋 Hi, I’m Peter!
+- 👀 I’m interested in Solidity, Javascript, React.js,  and soon to be SQL
+- 🌱 I’m currently learning a lot about Solidity and React.
+- 💞️ I’m looking to find my future career in Web3.
 - 📫 How to reach me on twitter at www.twitter.com/ohitspm
 
 <!---
