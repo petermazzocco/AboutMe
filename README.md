@@ -17,3 +17,5 @@
 [Nexus Token Swapper](https://www.app.thenexustoken.com/)
 - A simple swapper for the NEXUS ERC20 token. Built with Nextjs with wagmi and custom smart contracts in Solidity.
 
+Teamplay by Spaceman Gaming (No longer active)
+- Nextjs frontend with styled components and full usage of Tanstack react query
