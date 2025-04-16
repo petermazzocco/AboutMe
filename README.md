@@ -1,5 +1,5 @@
 [PvP Money](https://www.pvp.money)
-- Front end built with Nextjs, backened comes from smart contracts in Solidity (true decentralization), and uses wagmi to handle transactions and queries of contracts.
+- Frontend built with Nextjs, backened comes from smart contracts in Solidity (true decentralization), and uses wagmi to handle transactions and queries of contracts.
 
 [Dam Nation NIL](https://www.damnationnil.com)
 [Dam Nation NIL Shop](https://www.shop.damnationnil.com)
@@ -11,6 +11,9 @@
 [X Feeder Bot](https://www.github.com/petermazzocco/go-x-feeder-bot)
 - An open-sourced Golang bot that uses a twitter scaper to grab the recent post of any account and create a record for Bluesky. Uses the indigo package from Bluesky.
 
-[Nexus Token Swapper](https://app.thenexustoken.com/)
+[Prevail Swap](https://www.prevailswap.com)
+- Frontend buil with Nextjs, uses wagmi to do contract calls and various web3 related SDK's for cross-chain swapping.
+
+[Nexus Token Swapper](https://www.app.thenexustoken.com/)
 - A simple swapper for the NEXUS ERC20 token. Built with Nextjs with wagmi and custom smart contracts in Solidity.
 
