@@ -1,5 +1,5 @@
 [Coffee To Go](https://github.com/petermazzocco/coffee-to-go)
-A CLI tool for learning Golang through examples of managing and ordering coffee from a coffee shop.
+- A CLI tool for learning Golang through examples of managing and ordering coffee from a coffee shop.
 
 [PvP Money](https://www.pvp.money)
 - Frontend built with Nextjs, backened comes from smart contracts in Solidity (true decentralization), and uses wagmi to handle transactions and queries of contracts.
